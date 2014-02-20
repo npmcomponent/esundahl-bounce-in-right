@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-bounce-in-right",
+  "description": "bounce-in-right animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "bounce-in-right"
+  ],
+  "styles": [
+    "bounce-in-right.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
